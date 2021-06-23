@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Zomato"
+    },
+    "libraryName": "zAccess",
+    "generator-version": "3.2.0-preview5"
+  }
+}
