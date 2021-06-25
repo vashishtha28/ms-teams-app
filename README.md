@@ -1,4 +1,4 @@
-# Z Access - Microsoft Teams App
+# Microsoft Teams App
 
 Generate a Microsoft Teams application.
 
